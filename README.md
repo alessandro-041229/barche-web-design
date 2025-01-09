@@ -11,16 +11,15 @@ editing the reservation infos aswell if necessary
 # requisites
 
 
-* to run the following program is necessary to utilize XAMPP.
+make sure to have installed:
+* [XAMPP](https://www.apachefriends.org/it/download.html) for windows
 XAMPP is a completely free and easy to install Apache distribution containing MySQL, PHP and Perl.
-link to website for download: https://www.apachefriends.org/it/index.html
 
 
-* the installation of heidiSQL to run the database and test it.
+* [HeidiSQL](https://www.heidisql.com/download.php) 
 HeidiSQL is a free and open-source administration tool for MariaDB, MySQL, as well as Microsoft SQL Server, PostgreSQL and SQLite.
-link to website for download: https://www.heidisql.com/
 
-* as last, just utilize any program of choice who can run php, html, css code(visual studio as example) for visualize the main code behind the web site
+* [Visual Studio code ](https://visualstudio.microsoft.com/it/downloads/)
 
 # how to run
 
