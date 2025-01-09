@@ -121,7 +121,7 @@ if($_SESSION["tipo"]== ""){
     <br><a href="index.html">
     <label>TORNA ALLA HOME</label>
     <style>
-    body {background-color: orange ;}
+    body {background-color: blue ;}
     table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
