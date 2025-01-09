@@ -121,12 +121,15 @@ if($_SESSION["tipo"]== ""){
     <br><a href="index.html">
     <label>TORNA ALLA HOME</label>
     <style>
-    body {background-color: blue ;}
+    body {background-image: url('mare.jpg');}
     table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }th, td {
   background-color: white;
+}
+html{
+    background-image: url('mare.jpg');
 }
 
     </style>
