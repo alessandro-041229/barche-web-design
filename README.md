@@ -19,7 +19,8 @@ XAMPP is a completely free and easy to install Apache distribution containing My
 * [HeidiSQL](https://www.heidisql.com/download.php) 
 HeidiSQL is a free and open-source administration tool for MariaDB, MySQL, as well as Microsoft SQL Server, PostgreSQL and SQLite.
 
-* [Visual Studio code ](https://visualstudio.microsoft.com/it/downloads/)
+* [Visual Studio code ](https://visualstudio.microsoft.com/it/downloads/) showed under here
+  ![visualstudio](https://code.visualstudio.com/assets/home/swimlane-anywhere.png)
 
 # how to run
 
